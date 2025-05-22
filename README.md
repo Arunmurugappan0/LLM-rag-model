@@ -1,4 +1,3 @@
-
 # LLM-Based RAG System
 
 ## Overview
